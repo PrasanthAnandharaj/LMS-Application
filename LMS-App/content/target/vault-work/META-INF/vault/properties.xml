@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Leave Management App Package</comment>
+<entry key="createdBy">Prasanth.Anandharaj</entry>
+<entry key="name">LMS-App-content</entry>
+<entry key="created">2017-05-23T19:24:46.938+0530</entry>
+<entry key="groupId">com.som.lms</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">LMS Project</entry>
+<entry key="description">Maven Multimodule project for Leave Management App.</entry>
+<entry key="artifactId">LMS-App-content</entry>
+<entry key="path">/etc/packages/LMS Project/LMS-App-content.zip</entry>
+</properties>
