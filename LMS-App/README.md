@@ -1,4 +1,4 @@
 # LMS-App
-Prasanth Rocks
+Rocks
 
 New Read me
