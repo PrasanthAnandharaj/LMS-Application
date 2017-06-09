@@ -1,4 +1,3 @@
 # LMS-App
-Rocks
-
+Git check
 New Read me
